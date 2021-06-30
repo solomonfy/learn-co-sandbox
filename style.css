@@ -1,0 +1,8 @@
+body {
+  color: blue;
+  background-color: lightgrey;
+}
+
+.image {
+  border-radius: 8px;
+}
